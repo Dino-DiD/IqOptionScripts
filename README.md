@@ -1,6 +1,6 @@
 # IqOptionScripts
 Scripts para la API de Iq Option
-# ¡Explora los Activos Disponibles con Iq Option! 🚀
+# ¡Script para Explor los Activos Disponibles en Iq Option! 🚀
 ### ActivosDisponibles.py
 #### 1️⃣ Instalar `colorama`
 Añade soporte para colores en la consola:
